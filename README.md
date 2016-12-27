@@ -6,7 +6,7 @@ I have been an Entrepreneur, Software Developer and Project Manager with more th
 
 ## Philosophy
 
-Don't just write code, solve problems instead!
+Don't just write code, **solve problems** instead!
 
 ## Technology
 

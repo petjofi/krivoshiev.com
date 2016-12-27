@@ -18,14 +18,30 @@
 .page-header {
   color: #fff;
   text-align: center;
-  background: #5C94CE linear-gradient(120deg, rgb(92, 148, 206), rgb(102, 83, 163), rgb(30, 167, 120));
+  background: rgb(102, 83, 163) linear-gradient(90deg, rgb(92, 148, 206), rgb(102, 83, 163), rgb(30, 167, 120));
 }
 
 h1 {
   text-transform: uppercase;
 }
 
+a {
+  color: rgb(92, 148, 206);
+  text-decoration: none;
+}
+
+strong {
+  color: rgb(102, 83, 163);
+}
+
 .project-tagline {
   text-transform: uppercase;
   color: #fff;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  color: rgb(30, 167, 120);
 }

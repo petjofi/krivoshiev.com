@@ -1,12 +1,12 @@
-# Hello
+# krivoshiev.com
 
-My name is Petar Krivoshiev. 
+Hello, my name is Petar Krivoshiev. 
 
-I am an Entrepreneur, Software Developer and Project Manager with more then 15 years Experience in the field.
+I have been an Entrepreneur, Software Developer and Project Manager with more then 15 years experience in the field.
 
 ## Philosophy
 
-I don't write code. I solve problems.
+I don't just write code. I solve problems.
 
 ## Technology
 

@@ -6,7 +6,7 @@ I have been an Entrepreneur, Software Developer and Project Manager with more th
 
 ## Philosophy
 
-I don't just write code. I solve problems.
+Don't just write code, solve problems instead!
 
 ## Technology
 
@@ -29,16 +29,17 @@ I was born in the small town of Asenovgrad, Bulgaria. My interest in technology 
 One of my earliest memories is when my grandfather brought me to a small room in the Building he worked.
 There i saw Pravetz 8 for the first time. It was our "nations pride" product, copy of the legendary Apple-I and II.
 Back then it was not easy to get access to such an amazing thing. So when i had the possibility to go to the 
-High School of Mathematics i did not hesitate. It was a kind of an experimental class for the youngest and 
-we had a lot of fun with the earliest computers and robots.
+High School of Mathematics i did not hesitate. I was in an experimental class for the youngest and 
+we had a lot of fun with one of the earliest computers and robots.
 
-I still can not explain why my father decided to bye me a personal computer couple of years later. It was such an expensive
-thing. Bulgaria was entering democracy and the crisis was widespread. My 286XT costed a fortune. More then a normal car.
-But that way i had the miracle at home and next to playing games i was getting familiar with Basic, Pascal and even Delphi.
+I still can not explain why couple of years later my father decided to bye me a personal computer. It was such an expensive
+thing. Bulgaria was entering democracy and the crisis was widespread. My 286XT costed a fortune - more then a normal car.
+But that way i had the miracle right at home and next to playing games i was getting familiar with Basic, Pascal and 
+even Delphi.
 
-The next couple of years were quite busy at school. I entered the german language school and finished with average. 
+The next couple of years were quite busy. I entered the german language school and finished with average. 
 Languages were not my strong side. Years later I will be very thankful to my german teachers for there patience.
-Now, after fifteen years in Germany I am proud to speak an excellent german and I love it. At the end I was involved more
+Now, after fifteen years in Germany I am proud to speak an excellent german and I love it. At the end I was more involved
 with developing an alternative to the civil education then with my german lessons.
  
 After finishing high school I went to the Plovdiv University with major Engineering Physics. But then a surprising 
@@ -54,8 +55,8 @@ in quantum physics and short-term student jobs until one day I met my future fri
 german industry automation company specialising in building machines for the solar sector. Started with small 
 contract jobs I soon saw an opportunity to make a huge optimisation at the logistics department. I started with a simple 
 stock module mirroring there existing logic. Optimised and documented the process and developed a sophisticated method
-to search for existing parts in a huge database. Our machines was client specific, but most of the parts are redundant.
-The possibility to use the data how often a single part is used gave us the benefit over the competition. We were able
+to search for existing parts in a huge database. Our machines was client specific, but most of the parts were redundant.
+The possibility to use the data - how often a single part is used - gave us the benefit over the competition. We were able
 to meet a ridiculous deadlines. With the support of my manager we soon had a fast growing self-made planning tool covering
 Finance, Purchase, Sales, Engineering, Distribution. 
 

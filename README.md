@@ -11,7 +11,7 @@ Don't just write code, be a **code poet** instead!
 ## Technology
 
 ### Favourite Setup
-I love working with Python, Django, Node, PHP and Angular2. Jira and Git are priceless.
+I love Python and Django, Angular2 and Node. Jira and Git are priceless.
 
 ### Mostly Used
 I have experience with many different technologies but mostly with PHP, VB.NET, Javascript, AngularJS, SQL. My experience in the machine industry in Germany taught me how to use all kinds of tools efficiently and to quickly deliver qualitative solutions.

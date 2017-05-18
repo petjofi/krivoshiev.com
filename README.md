@@ -1,5 +1,3 @@
-# krivoshiev.com
-
 Мy name is Petar Krivoshiev.
 
 I am an Entrepreneur, Software Developer and Project Manager with more than 15 years experience in the field.
@@ -40,10 +38,6 @@ Lectures in quantum physics rotated with short-term student jobs until one day I
 We had the valuable data of how often a single part is used. This allowed us to meet ridiculous deadlines and be ahead of the competition. With the support of my manager we soon had a fast growing self-made planning tool covering Finance, Purchase, Sales, Engineering, Distribution.
 
 (to be continued)
-
-## Contact
-
-[petar@krivoshiev.com](mailto:petar@krivoshiev.com)
 
 <!---
 
